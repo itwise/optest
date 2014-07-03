@@ -6,6 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
 
+// Hahaha
 public class DateUtil_v3 {
 	private static final String STANDARD_YMD = "yyyy-MM-dd";
 	private static final ThreadLocal<DateFormat> LOCAL = new ThreadLocal<DateFormat>();
